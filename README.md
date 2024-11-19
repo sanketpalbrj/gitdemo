@@ -1,2 +1,4 @@
 # gitdemo
-The Git practice
+The Git practice area.
+<br>
+Author - Sanket Pal
